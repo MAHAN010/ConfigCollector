@@ -38,7 +38,7 @@
 **خروجی نهایی کانفیگ‌ها از طریق لینک زیر در دسترس است:**
 
 🔗 **Subscription Link:**  
-https://github.com/MAHAN010/ConfigCollector/blob/main/sub.txt
+[https://github.com/MAHAN010/ConfigCollector/blob/main/sub.txt](https://raw.githubusercontent.com/MAHAN010/ConfigCollector/main/sub.txt)
 
 (برای استفاده در کلاینت‌ها نسخه Raw را باز کنید)
 
