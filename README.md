@@ -6,37 +6,58 @@
   </a>
   <img src="https://img.shields.io/github/stars/MAHAN010/ConfigCollector?style=for-the-badge">
   <img src="https://img.shields.io/github/last-commit/MAHAN010/ConfigCollector?style=for-the-badge">
-  <img src="https://img.shields.io/github/actions/workflow/status/MAHAN010/ConfigCollector/collector.yml?style=for-the-badge">
 </p>
 
 <p align="center">
-⚡ Automatic V2Ray Config Collector <br>
-🛰️ Scraping Telegram Channels <br>
-⏱ Updating Every 15 Minutes <br>
-📦 Clean • Fast • Auto Synced
+⚡ Auto V2Ray Config Collector <br>
+⏱ Updates Every 15 Minutes <br>
+📡 Telegram Scraper Engine
 </p>
 
 ---
 
-## 💡 About The Project
+## 💡 About Project
 
-**V2ray Collector** automatically gathers the latest V2Ray / VLESS / VMESS / Trojan / Shadowsocks configs from Telegram channels across the network and updates them inside this repository every 15 minutes using a scheduled GitHub workflow.
+**𝐕2𝐫𝐚𝐲 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐨𝐫 یک سیستم خودکار برای جمع‌آوری جدیدترین کانفیگ‌های V2Ray از کانال‌های تلگرام است که هر ۱۵ دقیقه اجرا شده و خروجی را به‌صورت خودکار بروزرسانی می‌کند.**
 
-No manual updates.  
-No outdated configs.  
-Fully automated. 🔥
+**این پروژه بدون نیاز به دخالت دستی، کانفیگ‌ها را دریافت، بررسی، پاکسازی و در ریپازیتوری منتشر می‌کند.**
 
 ---
 
 ## ⚙️ How It Works
 
-1. ⏳ GitHub Action runs every 15 minutes  
-2. 🛰️ Collector fetches fresh configs from Telegram sources  
-3. 🧹 Duplicate & invalid links are removed  
-4. 📁 Clean file is pushed to the repository automatically  
+**🛰 اسکریپت در بازه‌های زمانی ۱۵ دقیقه‌ای اجرا می‌شود.**  
+**📥 کانفیگ‌های جدید از منابع مختلف تلگرام استخراج می‌شوند.**  
+**🧹 لینک‌های تکراری یا نامعتبر حذف می‌شوند.**  
+**📤 فایل خروجی به‌صورت خودکار در ریپازیتوری آپدیت می‌شود.**
 
 ---
 
-## 📂 Output File
+## 📂 Output Subscription
 
-All collected configs are available here:
+**خروجی نهایی کانفیگ‌ها از طریق لینک زیر در دسترس است:**
+
+🔗 **Subscription Link:**  
+https://github.com/MAHAN010/ConfigCollector/blob/main/sub.txt
+
+(برای استفاده در کلاینت‌ها نسخه Raw را باز کنید)
+
+---
+
+## 🌍 Purpose
+
+**این پروژه برای کاربرانی طراحی شده که نیاز به دسترسی سریع و مداوم به کانفیگ‌های بروز دارند، مخصوصاً در شرایط فیلترینگ شدید.**
+
+**همچنین برای توسعه‌دهندگانی که قصد ساخت ابزارهای پراکسی یا سیستم‌های مانیتورینگ دارند کاربردی است.**
+
+---
+
+## 🔒 Disclaimer
+
+**این پروژه صرفاً جهت اهداف آموزشی و تحقیقاتی ارائه شده است. مسئولیت نحوه استفاده بر عهده کاربر است.**
+
+---
+
+<p align="center">
+🚀 Built for Automation • Designed for Speed • Maintained by MAHAN010
+</p>
